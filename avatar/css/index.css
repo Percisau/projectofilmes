@@ -1,0 +1,17 @@
+
+
+.cor1{
+    background-color: #fc5203;
+}
+
+.container-img{
+    margin: 15px;
+    max-width: 15px;
+    padding: 10px;
+    display: flex;
+}
+.a-img-hover{
+    padding: 15px;
+    background-color:black;margin: 15px;
+
+}
